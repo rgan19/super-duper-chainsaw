@@ -3,6 +3,8 @@ Git with Git hub
 
 exploring git again in 2017
 
+this is to test merging
 
-what if i add this
-and remove some lines later
+
+
+Technically commit is similar to push. When you push you have to commit. 
