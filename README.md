@@ -1,7 +1,7 @@
 # super-duper-chainsaw
 Git with Git hub
 
-hi, this is a test
+exploring git again in 2017
 
 
 what if i add this
